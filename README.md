@@ -1,1 +1,2 @@
 
+ Developed an advanced flight route planning system using dynamic programming, graph theory, Dijkstra's algorithm, A* algorithm, and various traversal techniques. The project aimed to optimize flight routes based on multiple factors including distance, cost, travel time, layovers, timing, and dates. This comprehensive approach ensured efficient and cost-effective travel planning by evaluating and comparing various route options.
